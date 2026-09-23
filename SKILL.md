@@ -1,4 +1,4 @@
-﻿---
+---
 name: shangou-hongbao
 slug: shangou-hongbao
 displayName: 闪购即时零售红包助手
